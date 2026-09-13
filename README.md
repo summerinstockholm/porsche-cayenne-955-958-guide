@@ -1,5 +1,7 @@
 # Porsche Cayenne 955–958.2 — универсальная шпаргалка
 
+**Версия:** 1.1
+
 > **Охват:** Porsche Cayenne 955, 957, 958 и 958.2, прежде всего в конфигурациях, реально встречающихся на рынке РФ.
 >
 > **Цель:** по одному документу понять шильдик, двигатель, мощность, коробку, склонность к задирам, типовые проблемы, стоимость крупных ремонтов, регламент обслуживания, жидкости, топливо и PPI перед покупкой.
@@ -8,7 +10,33 @@
 
 ---
 
+
+## Оглавление
+
+- [Porsche Cayenne 955 — 2002–2006/начало 2007](#cayenne-955)
+- [Porsche Cayenne 957 — 2007–2010](#cayenne-957)
+- [Porsche Cayenne 958 — 2010–2014](#cayenne-958)
+- [Porsche Cayenne 958.2 — 2014–2018](#cayenne-9582)
+- [Коробки](#transmissions)
+- [Регламент обслуживания](#maintenance)
+- [Масла ДВС: допуски, вязкости и объёмы](#engine-oil)
+- [Остальные жидкости](#fluids)
+- [Топливо](#fuel)
+- [PPI перед покупкой](#ppi)
+- [Шкала стоимости ремонтов](#repair-costs)
+- [Короткая карта всей линейки](#quick-map)
+- [Источники и подход к данным](#sources)
+- [TL;DR](#tldr)
+
+---
+
+<a id="cayenne-955"></a>
 # Porsche Cayenne 955 — 2002–2006/начало 2007
+
+<p align="center">
+  <img src="assets/images/cayenne-955.jpg" alt="Porsche Cayenne 955" width="900">
+</p>
+<p align="center"><sub>Фото: <a href="https://commons.wikimedia.org/wiki/File:Porsche-Cayenne.jpg">IFCAR / Wikimedia Commons</a> — Public Domain.</sub></p>
 
 | Название | Мотор | Код мотора | Мощность | Коробка | Код КПП | Задиры | 💸 |
 |---|---|---|---:|---|---|---|---|
@@ -137,7 +165,13 @@ M48.50 также Alusil и также подвержен задирам; доп
 
 ---
 
+<a id="cayenne-957"></a>
 # Porsche Cayenne 957 — 2007–2010
+
+<p align="center">
+  <img src="assets/images/cayenne-957.jpg" alt="Porsche Cayenne 957" width="900">
+</p>
+<p align="center"><sub>Фото: <a href="https://commons.wikimedia.org/wiki/File:2009_Porsche_Cayenne_(9PA_MY09)_3.6_wagon_(2015-07-16)_01.jpg">OSX / Wikimedia Commons</a> — Public Domain.</sub></p>
 
 | Название | Мотор | Код мотора | Мощность РФ | Коробка | Код КПП | Задиры | 💸 |
 |---|---|---|---:|---|---|---|---|
@@ -262,7 +296,13 @@ Porsche заметно доработал V8 по сравнению с 955. У 
 
 ---
 
+<a id="cayenne-958"></a>
 # Porsche Cayenne 958 — 2010–2014
+
+<p align="center">
+  <img src="assets/images/cayenne-958.jpg" alt="Porsche Cayenne 958" width="900">
+</p>
+<p align="center"><sub>Фото: <a href="https://commons.wikimedia.org/wiki/File:Porsche_958_Cayenne_S_front.JPG">Tokumeigakarinoaoshima / Wikimedia Commons</a> — CC0 1.0.</sub></p>
 
 | Название | Мотор | Код мотора | Мощность РФ | Коробка | Код КПП | Задиры | 💸 |
 |---|---|---|---:|---|---|---|---|
@@ -441,7 +481,13 @@ Alusil + две турбины.
 
 ---
 
+<a id="cayenne-9582"></a>
 # Porsche Cayenne 958.2 — 2014–2018
+
+<p align="center">
+  <img src="assets/images/cayenne-9582.jpg" alt="Porsche Cayenne 958.2" width="900">
+</p>
+<p align="center"><sub>Фото: <a href="https://commons.wikimedia.org/wiki/File:Porsche_Cayenne_GTS_(2016)_(54871040001).jpg">Charles / Wikimedia Commons</a> — CC0 1.0.</sub></p>
 
 | Название | Мотор | Код мотора | Мощность РФ | Коробка | Код КПП | Задиры | 💸 |
 |---|---|---|---:|---|---|---|---|
@@ -621,6 +667,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="transmissions"></a>
 # Коробки — чтобы окончательно закрепить
 
 | Поколение | Основной автомат |
@@ -634,6 +681,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="maintenance"></a>
 # Регламент обслуживания
 
 ## Заводской регламент и разумный регламент возрастного Cayenne
@@ -686,6 +734,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="engine-oil"></a>
 # Масла ДВС: что лить, допуски и объёмы
 
 ## Главное правило
@@ -760,6 +809,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="fluids"></a>
 # Остальные жидкости
 
 ## АКПП 955/957 — Aisin TR-60SN / 09D
@@ -860,6 +910,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="fuel"></a>
 # Топливо
 
 ## Бензиновые Cayenne
@@ -911,6 +962,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="ppi"></a>
 # PPI перед покупкой
 
 ## Обязательная база для любого Cayenne
@@ -1135,6 +1187,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="repair-costs"></a>
 # Финальная шкала «что за проблема и насколько больно»
 
 | Проблема | Ориентир |
@@ -1155,6 +1208,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="quick-map"></a>
 # Самая короткая карта всей линейки
 
 | Поколение | Самый рациональный | Интересный вариант | Финансово опасный |
@@ -1186,6 +1240,12 @@ Alusil + две турбины.
 
 ---
 
+
+## Изображения
+
+Фотографии поколений в `assets/images/` взяты из Wikimedia Commons. Для v1.1 специально выбраны только файлы со статусом **Public Domain** или **CC0 1.0**, чтобы изображения можно было хранить непосредственно в репозитории без дополнительных ограничений на распространение. Источник каждого фото указан прямо под изображением; полный список также лежит в `assets/images/SOURCES.md`.
+
+<a id="sources"></a>
 # Источники и подход к данным
 
 Основные опорные источники:
@@ -1210,6 +1270,7 @@ Alusil + две турбины.
 
 ---
 
+<a id="tldr"></a>
 # TL;DR
 
 - **955:** рационально 3.2; S 4.5 — главный задирный риск.
